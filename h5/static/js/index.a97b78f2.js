@@ -10759,7 +10759,7 @@
         a.default.prototype.$http = y.req,
         a.default.prototype.isDonateFun = function() {
             var e = uni.getStorageSync("donation");
-            return "1" == e || "2" == e || 1 == e || 2 == e
+            return "1"
         }
         ,
         a.default.prototype.isLoginFun = function() {
