@@ -4023,7 +4023,7 @@
             message: {
                 app: {},
                 index: {
-                    search: "搜索表盘主题",
+                    search: "别点",
                     announcement: "公告",
                     token: "检测到分享口令",
                     token_hint: "是否跳转到分享的表盘详情页",
@@ -4038,11 +4038,11 @@
                     upload: "上传"
                 },
                 tabbar: {
-                    make: "制作",
-                    explore: "探索",
-                    tool: "工具",
-                    bandBBS: "资源",
-                    about: "关于"
+                    make: "别点",
+                    explore: "别点",
+                    tool: "别点",
+                    bandBBS: "别点",
+                    about: "别点"
                 },
                 make: {
                     select_basis: "选择底包",
@@ -4112,7 +4112,7 @@
                     ios_hint: "iOS用户请点此跳转至Safari下载"
                 },
                 explore: {
-                    nav: ["最新上传", "最多下载", "编辑推荐"],
+                    nav: ["CRACK", "别点", "别点"],
                     download: "下载",
                     processing: "下载中...",
                     loading: "加载中...",
