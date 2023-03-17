@@ -3569,7 +3569,7 @@
                     uni.showLoading(),
                     this.download_item = t,
                     this.$http.ajax({
-                        path: "watchface/download",
+                        path: "BandBBS-WF-Crack/watchface/download",
                         type: "post",
                         title: this.i18n.explore.processing,
                         data: {
