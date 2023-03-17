@@ -405,7 +405,7 @@
                     this.state = 5;
                     var n = this.fileDownloadUrl.replace("http://watchface.private.pingx.tech/", "https://res.mibandtool.club/");
                     this.$http.ajax({
-                        path: n + "&test=1",
+                        path: n + "",
                         type: "get",
                         useBaseUrl: !1
                     }).then(function(i) {
@@ -1075,7 +1075,7 @@
                     this.txtMsg = "下载中",
                     this.state = 5,
                     this.$http.ajax({
-                        path: this.fileDownloadUrl + "&test=1",
+                        path: this.fileDownloadUrl + "",
                         type: "get",
                         useBaseUrl: !1
                     }).then(function(n) {
