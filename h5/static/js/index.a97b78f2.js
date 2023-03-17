@@ -29,7 +29,7 @@
     }
       , a = [];
     function r(e) {
-        return s.p + "/../BandBBS-WF-Crack/h5/static/js/" + ({
+        return s.p + "static/js/" + ({
             "pages-Bluetooth-Bluetooth": "pages-Bluetooth-Bluetooth",
             "pages-about-about": "pages-about-about",
             "pages-about-adDetail": "pages-about-adDetail",
@@ -202,7 +202,7 @@
         return Object.prototype.hasOwnProperty.call(e, t)
     }
     ,
-    s.p = "/h5/",
+    s.p = "/BandBBS-WF-Crack/",
     s.oe = function(e) {
         throw console.error(e),
         e
@@ -5472,7 +5472,7 @@
             },
             e.__uniConfig.router = {
                 mode: "hash",
-                base: "/h5/"
+                base: "/BandBBS-WF-Crack/"
             },
             e.__uniConfig["async"] = {
                 loading: "AsyncLoading",
