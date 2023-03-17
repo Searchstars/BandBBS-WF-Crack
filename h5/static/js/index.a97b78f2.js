@@ -202,7 +202,7 @@
         return Object.prototype.hasOwnProperty.call(e, t)
     }
     ,
-    s.p = "/BandBBS-WF-Crack/",
+    s.p = "/BandBBS-WF-Crack/h5",
     s.oe = function(e) {
         throw console.error(e),
         e
@@ -5472,7 +5472,7 @@
             },
             e.__uniConfig.router = {
                 mode: "hash",
-                base: "/BandBBS-WF-Crack/"
+                base: "/BandBBS-WF-Crack/h5"
             },
             e.__uniConfig["async"] = {
                 loading: "AsyncLoading",
