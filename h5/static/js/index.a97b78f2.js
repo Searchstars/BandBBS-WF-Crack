@@ -3479,7 +3479,7 @@
                             this.isLoading = !0;
                             var t = this.tagsList[this.TabCurSub].id;
                             this.$http.ajax({
-                                path: "watchface/listbytag/" + this.TabCur + "/" + this.page + "/" + this.page_size + "/" + t,
+                                path: "BandBBS-WF-Crack/watchface/listbytag/" + this.TabCur + "/" + this.page + "/" + this.page_size + "/" + t,
                                 type: "get"
                             }).then(function(t) {
                                 for (var n in t)
