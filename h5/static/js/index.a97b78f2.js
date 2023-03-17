@@ -5044,8 +5044,7 @@
                     })
                 },
                 goToBLETool: function() {
-                    if (this.isLoginFun())
-                        if (this.isDonateFun()) {
+                    if (this.isLoginFun()){
                             console.log("打开安装页面");
                             var e = plus.android.runtimeMainActivity()
                               , t = plus.android.importClass("android.content.Intent")
@@ -5053,8 +5052,7 @@
                               , i = new t(e,n.class);
                             i.putExtra("limitMac", this.isLoginFun()),
                             e.startActivity(i)
-                        } else
-                            this.donationProtect();
+                    }
                     else
                         uni.showToast({
                             icon: "none",
@@ -5062,8 +5060,7 @@
                         })
                 },
                 goToBLEToolMan: function() {
-                    if (this.isLoginFun())
-                        if (this.isDonateFun()) {
+                    if (this.isLoginFun()){
                             console.log("打开安装页面");
                             var e = plus.android.runtimeMainActivity()
                               , t = plus.android.importClass("android.content.Intent")
@@ -5071,8 +5068,7 @@
                               , i = new t(e,n.class);
                             i.putExtra("limitMac", this.isLoginFun()),
                             e.startActivity(i)
-                        } else
-                            this.donationProtect();
+                    }
                     else
                         uni.showToast({
                             icon: "none",
