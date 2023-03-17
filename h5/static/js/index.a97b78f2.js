@@ -395,7 +395,7 @@
                         e.state = 6,
                         e.close()
                     }, function() {
-                        e.errorMsg("安装失败,请取消极速安装后重试")
+                        e.errorMsg("安装失败,请确保你的bin文件已被替换且actions已构建完成，在检查一切后仍无效请取消极速安装后重试")
                     })
                 },
                 downloadFile: function() {
