@@ -10714,7 +10714,7 @@
         a.default.component("cu-custom", w.default),
         a.default.component("respage", v.default),
         console.log("生产环境"),
-        y.req.baseuUrl = "http://192.168.1.247/",
+        y.req.baseuUrl = "/",
         a.default.prototype.baseUrlMake = "http://res.mibandtool.club:8081/",
         a.default.prototype.baseUrl = y.req.baseuUrl,
         a.default.prototype.blue_util = f.default,
