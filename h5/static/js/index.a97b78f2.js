@@ -3570,7 +3570,7 @@
                     this.download_item = t,
                     this.$http.ajax({
                         path: "BandBBS-WF-Crack/watchface/download",
-                        type: "post",
+                        type: "get",
                         title: this.i18n.explore.processing,
                         data: {
                             id: e
