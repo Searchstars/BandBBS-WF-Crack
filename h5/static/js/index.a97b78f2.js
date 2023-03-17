@@ -29,7 +29,7 @@
     }
       , a = [];
     function r(e) {
-        return s.p + "static/js/" + ({
+        return s.p + "/BandBBS-WF-Crack/h5/static/js/" + ({
             "pages-Bluetooth-Bluetooth": "pages-Bluetooth-Bluetooth",
             "pages-about-about": "pages-about-about",
             "pages-about-adDetail": "pages-about-adDetail",
